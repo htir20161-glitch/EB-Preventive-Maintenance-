@@ -1,0 +1,12 @@
+{
+  "name": "PM System Online",
+  "short_name": "PM System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7FAF8",
+  "theme_color": "#0B3D34",
+  "description": "Online preventive maintenance equipment records and schedules",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
